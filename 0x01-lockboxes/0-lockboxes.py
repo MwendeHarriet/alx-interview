@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Module determines the number of boxes that can be opened."""
 
+
 def canUnlockAll(boxes):
     """Function determines the number of boxes that can be opened."""
     queue = []
